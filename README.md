@@ -1,4 +1,4 @@
-## Hackathon
+## Hackaton
 
 **Sujet**: Quelle(s) énergie(s) pour demain ?
 
